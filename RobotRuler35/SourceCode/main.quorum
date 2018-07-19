@@ -52,7 +52,7 @@ motor:Stop("C")
 //turn  the robot     
 motor:RotateForward("B")
 motor:RotateBackward("C")
-sound:PlayTone(440, millisecondsofturn)
+sound:PlayTone(1760, millisecondsofturn)
 motor:Stop("B")
 motor:Stop("C")
 //move the robot forward        
